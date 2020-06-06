@@ -1,0 +1,10 @@
+{
+	"data": [
+		{ "name": "NUST", "applications": 20000, "enrolment": 15000, "graduation": 3000, "male": 6000, "female": 5000 },
+		{ "name": "UZ", "applications": 40000, "enrolment": 6000, "graduation": 4000, "male": 3000, "female": 500 },
+		{ "name": "MSU", "applications": 30000, "enrolment": 17000, "graduation": 5000, "male": 5000, "female": 7000 },
+		{ "name": "HIT", "applications": 10000, "enrolment": 4000, "graduation": 2000, "male": 4000, "female": 3000 },
+		{ "name": "CUT", "applications": 12000, "enrolment": 7000, "graduation": 1000, "male": 2000, "female": 1000 },
+		{ "name": "LSU", "applications": 60000, "enrolment": 2000, "graduation": 500, "male": 800, "female": 600 }
+	]
+}

@@ -1,0 +1,37 @@
+[
+	{
+		"Institution Name": "NUST",
+		"Applications": 20000,
+		"Enroled": 15000,
+		"Male": 12000,
+		"Female": 8000,
+		"Graduation": 3400
+	},
+
+	{
+		"Institution Name": "UZ",
+		"Applications": 24000,
+		"Enroled": 17000,
+		"Male": 14000,
+		"Female": 9000,
+		"Graduation": 5400
+	},
+
+	{
+		"Institution Name": "MSU",
+		"Applications": 60000,
+		"Enroled": 25000,
+		"Male": 19000,
+		"Female": 10000,
+		"Graduation": 8400
+	},
+
+	{
+		"Institution Name": "HIT",
+		"Applications": 10000,
+		"Enroled": 7500,
+		"Male": 5000,
+		"Female": 3000,
+		"Graduation": 3200
+	}
+]
